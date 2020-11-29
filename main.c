@@ -7,6 +7,6 @@ int sum(int a, int b)
 
 int main()
 {
-	
+	printf("asdf");
 	return 0;
 }
